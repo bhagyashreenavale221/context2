@@ -1,0 +1,32 @@
+select {
+    width: auto;
+}
+body{
+    background-color: black;
+}
+#para-1 {
+    display: flex;
+    margin: 10px;
+
+
+}
+#container h3{
+    color: white;
+}
+#para-1>div {
+    margin-right: 10px;
+    color:white;
+}
+
+#btn {
+    width: 90px;
+    height: 30px;
+    background: rgb(255, 255, 255);
+}
+
+#btn:hover {
+    width: 90px;
+    height: 30px;
+    background: rgb(190, 184, 184);
+    cursor: pointer;
+}
